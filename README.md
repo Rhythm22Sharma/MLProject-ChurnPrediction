@@ -1,7 +1,7 @@
 # Telecom Customer Churn Prediction and Analysis
 
 ## Live Deployment
-https://huggingface.co/spaces/Rhythm22/Telecom_Customer_Churn_Prediction
+[Click here to view the deployed app](https://huggingface.co/spaces/Rhythm22/Telecom_Customer_Churn_Prediction)
 
 ---
 
