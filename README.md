@@ -13,18 +13,16 @@ This project aims to combat customer churn in the telecom industry by developing
 
 # Table of Contents
 
-- Introduction
-- Features
-- Tech Stack
-- Installation
-- Usage
-- Methodology
-- Results and Insights
-- Future Scope
-- Contributors
-- License
-
----
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Methodology](#methodology)
+- [Results and Insights](#results-and-insights)
+- [Future Scope](#future-scope)
+- [Contributors](#contributors)
+- [License](#license)
 
 # Introduction
 
