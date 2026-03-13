@@ -22,7 +22,7 @@ This project aims to combat customer churn in the telecom industry by developing
 - [Results and Insights](#results-and-insights)
 - [Future Scope](#future-scope)
 - [Contributors](#contributors)
-- [License](#license)
+
 
 # Introduction
 
